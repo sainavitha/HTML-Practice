@@ -1,0 +1,12 @@
+<html>
+<body>
+<svg width="800" height="500">
+<circle cx="100" cy="100" r="50" fill="yellow" stroke="red" stroke-width="2"></circle>
+<circle cx="100" cy="100" r="50" fill="red" stroke="yellow" stroke-width="2">
+</circle>
+
+	
+</svg>
+
+ </body>
+</html>
